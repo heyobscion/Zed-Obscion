@@ -1,7 +1,7 @@
-id = "zed-obscion"
-name = "Zed Obscion"
+id = "obscion"
+name = "Obscion"
 version = "0.0.1"
 schema_version = 1
 authors = ["Obscion"]
 description = "A dark theme with warm, vibrant colors inspired by obsidian"
-repository = "https://github.com/heyobscion/zed-obscion"
+repository = "https://github.com/heyobscion/obscion"
