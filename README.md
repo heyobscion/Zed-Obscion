@@ -30,7 +30,7 @@ A collection of 10 carefully crafted themes for the Zed editor, featuring warm a
 ### Manual Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/heyobscion/obscion.git
+   git clone https://github.com/heyobscion/Obscion-for-Zed
    ```
 2. Copy the entire folder to your Zed extensions directory:
    - **macOS**: `~/.config/zed/extensions/`
